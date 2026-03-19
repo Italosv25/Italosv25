@@ -1,16 +1,39 @@
-# Olá! Eu sou o Ítalo Satler Vidigal 👋
+# Olá! / Hi there! 👋 — Ítalo Vidigal
 
-Desenvolvedor web com foco em criar aplicações modernas e funcionais.
+<table>
+<tr>
+<td width="50%">
 
-💻 Trabalho com **Python**, **JavaScript**, **React**, **C#**, **HTML/CSS** e **SQL** — do banco de dados à interface.
+### 🇧🇷 Português
 
-🌐 Também possuo conhecimentos em **redes de computadores**, o que me ajuda a entender melhor a infraestrutura por trás das aplicações.
+🎓 Estudante de **Engenharia da Computação** (6º/8º período)
+
+💻 Trabalho com **Python, JavaScript, React, C#, HTML/CSS** e **SQL** — do banco de dados à interface.
+
+🌐 Possuo conhecimento em **redes de computadores**, o que me ajuda a entender a infraestrutura por trás das aplicações.
 
 🚀 Sempre aprendendo, sempre construindo.
 
+</td>
+<td width="50%">
+
+### 🇺🇸 English
+
+🎓 Computer Engineering student (6th/8th semester)
+
+💻 I work with **Python, JavaScript, React, C#, HTML/CSS** and **SQL** — from database to interface.
+
+🌐 I also have knowledge in **computer networks**, which helps me understand the infrastructure behind applications.
+
+🚀 Always learning, always building.
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -22,7 +45,7 @@ Desenvolvedor web com foco em criar aplicações modernas e funcionais.
 
 ---
 
-## 📬 Contato/contact
+## 📬 Contato / Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%ADtalosv-satler-vidigal-47396b264/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/italosvidigal/)
