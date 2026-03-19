@@ -1,4 +1,4 @@
-# Olá! Eu sou o Ítalo Vidigal 👋
+# Olá! Eu sou o Ítalo Satler Vidigal 👋
 
 Desenvolvedor web com foco em criar aplicações modernas e funcionais.
 
@@ -22,7 +22,7 @@ Desenvolvedor web com foco em criar aplicações modernas e funcionais.
 
 ---
 
-## 📬 Contato
+## 📬 Contato/contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%ADtalosv-satler-vidigal-47396b264/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/italosvidigal/)
