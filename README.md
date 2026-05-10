@@ -82,9 +82,6 @@ Site informativo sobre pontos turísticos de Guarapari, ES.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Italosv25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italosv25&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
-
 </div>
 
 <div align="center">
