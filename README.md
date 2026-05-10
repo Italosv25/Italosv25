@@ -9,9 +9,9 @@
 </p>
 
 <!-- Badges de status -->
-[![Portfolio](https://img.shields.io/badge/Portf%C3%B3lio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://seusite.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulinkedin)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://lnkd.in/dajhKskp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%ADtalo-satler-vidigal-47396b264/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italosvidigal@gmail.com)
 
 </div>
 
@@ -99,7 +99,7 @@ Site informativo sobre pontos turísticos de Guarapari, ES.
 
 Tem um projeto em mente? Me chama!
 
-[![Email](https://img.shields.io/badge/Enviar_E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Enviar_E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italosvidigal@gmail.com)
 
 <div align="center">
   <sub>Feito com ☕ e código em Guarapari, ES 🌊</sub>
