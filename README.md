@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG animado -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0096C7&center=true&vCenter=true&width=700&lines=%C3%8Dtalo+Satler+Vidigal+%F0%9F%91%8B;Full-Stack+Developer;Engenharia+da+Computa%C3%A7%C3%A3o+%40+UVV)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0096C7&center=true&vCenter=true&width=700&lines=%C3%8Dtalo+Satler+Vidigal+%F0%9F%91%8B;Full-Stack+Developer;Engenharia+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 
 <p>
   Desenvolvedor Full-Stack freelance apaixonado por construir produtos digitais do zero.<br/>
@@ -9,7 +9,7 @@
 </p>
 
 <!-- Badges de status -->
-[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://lnkd.in/dajhKskp)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://italosv25.github.io/Curriculo-site/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%ADtalo-satler-vidigal-47396b264/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italosvidigal@gmail.com)
 
@@ -41,6 +41,69 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Deploy & Ferramentas**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🍔 M-Conveniência — Sistema de Gestão para Restaurante
+Sistema full-stack completo para gerenciamento de pedidos, cardápio e clientes.
+- **Auth** com JWT + bcrypt, verificação por e-mail e 2FA
+- **Painel admin** com histórico de pedidos e controle de adicionais
+- **Stack:** React, JavaScript, Express, PostgreSQL, Docker
+
+---
+
+### 📡 ByteWave — Site Marketing para Agência
+Landing page profissional voltada para donos de restaurantes no ES.
+- Animações com **Framer Motion**, formulário de contato e CTAs para WhatsApp
+- Planos de serviço apresentados com cards interativos
+- **Stack:** React, Vite, TailwindCSS
+
+---
+
+### 🏖️ Site Turismo Guarapari
+Site informativo sobre pontos turísticos de Guarapari, ES.
+- Deploy na Vercel com CI via GitHub Actions
+- **Stack:** React, Tailwind, Vite
+- 🔗 [site-turismo-guarapari-fzyx.vercel.app](https://site-turismo-guarapari-fzyx.vercel.app)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Italosv25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italosv25&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Italosv25&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📬 Contato
+
+Tem um projeto em mente? Me chama!
+
+[![Email](https://img.shields.io/badge/Enviar_E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:italosvidigal@gmail.com)
+
+<div align="center">
+  <sub>Feito com ☕ e código em Guarapari, ES 🌊</sub>
+</div>![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
